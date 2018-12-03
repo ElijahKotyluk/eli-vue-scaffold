@@ -11,6 +11,8 @@ eli-vue-scaffold/
   |   ├── js/
   |   |   └── components/
   |   |   |   └── App.vue        
+  |   |   ├── store/
+  |   |   |    └── index.js
   |   |   └── index.js
   |   └── styles
   |       ├── _reset.scss
@@ -37,6 +39,8 @@ Filenames denoted with an asterisk `*` are auto generated and should not be modi
   - `js/` : Javascript folder.
     - `components/` : Vue components.
       - `App.vue` : Main application component.
+    - `store/` : Vuex state store folder.
+      - `index.js` : Vuex state store entry point.
     - `index.js` : Main application entry point for Javascript.
   - `styles/` : Styles folder.
     - `_reset.scss` : Global style reset partial.
