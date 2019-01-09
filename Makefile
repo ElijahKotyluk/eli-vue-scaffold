@@ -1,7 +1,4 @@
 # ${project-name} Makefile
-# author: Eli Kotyluk <elijah@elijahkotyluk.com>
-# copyright: Elijah Kotyluk 2017
-
 
 SHELL := /bin/bash
 
