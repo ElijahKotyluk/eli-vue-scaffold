@@ -1,4 +1,4 @@
-# eli-vue-scaffold
+# vue-webpack-scaffold
 
 This is a basic project skeleton. This will make projects easier for the initial start giving me a basic outline to follow. Reusing this skeleton through multiple projects will save time by already having all of your basic files created to begin a project.
 
@@ -58,7 +58,7 @@ Filenames denoted with an asterisk `*` are auto generated and should not be modi
 
 ## getting started
 
-1. Check out this repo: `git clone https://github.com/elijahkotyluk/eli-vue-scaffold.git`
+1. Check out this repo: `git clone https://github.com/elijahkotyluk/vue-webpack-scaffold.git`
 1. In Atom search the whole project for the string `${project-name}` and replace it with desired project name.
 1. Edit `package.json` project description, authors, dependencies, and possibly license.
 1. Do initial build: `make`
